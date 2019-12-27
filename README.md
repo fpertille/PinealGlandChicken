@@ -24,8 +24,8 @@ comp4= F_Stress-F_Control ,
 
 Foldchanges:
 comp1, for exemple:
-+ means = F>M
-- means = F<M
+(+) means = F>M
+(-) means = F<M
 
 
 2nd part: Scripts for loading all the inputs generated from 1nd part and counting features from different dataframes for tables generation.
