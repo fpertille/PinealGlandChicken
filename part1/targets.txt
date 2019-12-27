@@ -1,0 +1,13 @@
+Sample	treatment	sex
+ggal_miRb21_bbmap_1	stress	male
+ggal_miRb21_bbmap_10	stress	female
+ggal_miRb21_bbmap_11	stress	female
+ggal_miRb21_bbmap_12	ctrl	female
+ggal_miRb21_bbmap_2	ctrl	male
+ggal_miRb21_bbmap_3	ctrl	female
+ggal_miRb21_bbmap_4	ctrl	male
+ggal_miRb21_bbmap_5	stress	female
+ggal_miRb21_bbmap_6	stress	male
+ggal_miRb21_bbmap_7	stress	male
+ggal_miRb21_bbmap_8	ctrl	male
+ggal_miRb21_bbmap_9	ctrl	female

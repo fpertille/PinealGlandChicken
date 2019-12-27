@@ -1,0 +1,13 @@
+Sample_ID	Gender	Stress
+UP_90_1	M	Stress
+UP_90_2	M	Control
+UP_90_3	F	Control
+UP_90_4	M	Control
+UP_90_5	F	Stress
+UP_90_6	M	Stress
+UP_90_7	M	Stress
+UP_90_8	M	Control
+UP_90_9	F	Control
+UP_90_10	F	Stress
+UP_90_11	F	Stress
+UP_90_12	F	Control

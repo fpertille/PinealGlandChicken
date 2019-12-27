@@ -1,0 +1,13 @@
+Sample_ID	Gender	Stress
+ip_272_013	F	Control
+ip_272_022	F	Control
+ip_272_019	F	Control
+ip_272_015	F	Stress
+ip_272_021	F	Stress
+ip_272_020	F	Stress
+ip_272_012	M	Control
+ip_272_014	M	Control
+ip_272_018	M	Control
+ip_272_011	M	Stress
+ip_272_016	M	Stress
+ip_272_017	M	Stress
