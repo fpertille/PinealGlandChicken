@@ -14,7 +14,8 @@ From the count tables generated from the raw data for each omic level analyzed, 
 
 They were divided into three parts:
 
-Part 1: Statistical Analysis for the 5 contrasts used in each omic level (DMR, DMiR, DEG) using Limma (https://bioconductor.org/packages/release/bioc/html/limma.html)
+Part 1: Statistical Analysis for the 5 contrasts used in each omic level (DMR, DMiR, DEG) using Limma (https://bioconductor.org/packages/release/bioc/html/limma.html) and the necessary inputs to run it.
+
 Contrasts:
 comp1= M_Stress-F_Stress ,
 comp2= M_Control-F_Control ,
